@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450114421259",
+    "project_id": "customerandshopkeeper",
+    "storage_bucket": "customerandshopkeeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450114421259:android:ecdf67dc1a1b3d89ffbd0e",
+        "android_client_info": {
+          "package_name": "com.example.customer_and_shopkeeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOlJfWMDugRK1Q9fWK7b3MMdnct7mmVYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
